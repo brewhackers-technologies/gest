@@ -1,0 +1,59 @@
+.home-container {
+    display: block;
+    margin: calc(var(--diagonal-y-scale) / 2) calc(var(--diagonal-x-scale) / 2);
+}
+
+.home-container .image-container {
+    text-align: center;
+}
+
+.home-container .image-container .app-image {
+    height: var(--image-height);
+}
+
+.home-container .app-detail-container>div {
+    padding: 10px 0;
+}
+
+.home-container .app-detail-container>div:first-child {
+    font-family: "Poppins";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.home-container .app-detail-container>div {
+    font-family: "Jost";
+    font-size: 18px;
+}
+
+.home-container .download-links>img {
+    padding: 10px 0 0 0;
+}
+
+@media only screen and (min-width: 320px) {}
+
+@media only screen and (min-width: 425px) {
+    .home-container .download-links>img {
+        padding: 10px 10px 0 0;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .home-container {
+        display: flex;
+        justify-content: space-around;
+    }
+    .home-container .image-container .app-image {
+        height: calc(1.1 * var(--image-height));
+    }
+    .home-container .app-detail-container {
+        text-align: start;
+        width: 35%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .home-container .download-links>img {
+        padding: 10px 10px 0 0;
+    }
+}

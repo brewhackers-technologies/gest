@@ -1,0 +1,15 @@
+.footer {
+    /* position: fixed; */
+    background-color: #fafafa;
+    padding: 1rem 0;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+@media only screen and (max-width: 640px) {}
+
+@media only screen and (max-width: 1024px) and (min-width: 640px) {}
