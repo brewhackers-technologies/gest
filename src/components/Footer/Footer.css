@@ -10,11 +10,18 @@
     font-weight: 500;
 }
 
-.footer-container .policies>div:first-child {
-    order: -1;
+.footer-container>div:first-child {
+    order: 2;
+    font-size: 0.8rem;
+}
+
+.footer-container>div:nth-child(2) {
+    order: 1;
 }
 
 .footer-container .policies,
+.footer-container .contact-us,
+.footer-container .contact-us>div,
 .footer-container .policies>div {
     padding: 0.5rem 0;
 }
@@ -24,6 +31,12 @@
 @media only screen and (min-width: 425px) {}
 
 @media only screen and (min-width: 768px) {
+    .footer-container>div:first-child {
+        order: 0;
+    }
+    .footer-container>div:nth-child(2) {
+        order: 0;
+    }
     .footer-container {
         flex-direction: row;
         flex-wrap: wrap;

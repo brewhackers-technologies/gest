@@ -3,14 +3,6 @@
     margin: calc(var(--diagonal-y-scale) / 2) calc(var(--diagonal-x-scale) / 2);
 }
 
-.feature-container .image-container {
-    text-align: center;
-}
-
-.feature-container .image-container .app-image {
-    height: var(--image-height);
-}
-
 .feature-container .app-detail-container>div {
     padding: 10px 0;
 }
@@ -34,16 +26,21 @@
     .feature-container {
         display: flex;
         justify-content: space-evenly;
-        margin: 200px calc(var(--diagonal-x-scale) / 2);
+        margin: 10vw calc(var(--diagonal-x-scale) / 2);
     }
-    .feature-container .image-container .app-image {
-        height: calc(1 * var(--image-height));
+    .feature-container .feature-container-right {
+        order: 1;
     }
     .feature-container .app-detail-container {
-        text-align: start;
-        width: 35%;
+        width: 40%;
         display: flex;
         flex-direction: column;
         justify-content: center;
+    }
+    .feature-container .left-container {
+        text-align: start;
+    }
+    .feature-container .right-container {
+        text-align: end;
     }
 }
