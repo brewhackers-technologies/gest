@@ -26,6 +26,12 @@
     padding: 0.5rem 0;
 }
 
+.no-link-style {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
 @media only screen and (min-width: 320px) {}
 
 @media only screen and (min-width: 425px) {}

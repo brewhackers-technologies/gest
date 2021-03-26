@@ -10,20 +10,20 @@
     padding: 10px;
 }
 
-.download-container .download-links>img {
+.download-container .download-links a>img {
     padding: 10px 0 0 0;
 }
 
 @media only screen and (min-width: 320px) {}
 
 @media only screen and (min-width: 425px) {
-    .download-container .download-links>img {
+    .download-container .download-links a>img {
         padding: 10px 10px 0 0;
     }
 }
 
 @media only screen and (min-width: 768px) {
-    .download-container .download-links>img {
+    .download-container .download-links a>img {
         padding: 10px 10px 0 0;
     }
 }

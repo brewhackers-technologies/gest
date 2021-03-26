@@ -20,8 +20,21 @@ export default function Home() {
         <div>Short news for smart people</div>
         <div>Download and save time on reading !!</div>
         <div className="download-links">
-          <img src={AppStore} alt="AppStore " />
-          <img src={GooglePlayStore} alt="GooglePlayStore " />
+          <a
+            href="https://apps.apple.com/us/app/id1525140074"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={AppStore} alt="AppStore " />
+          </a>
+
+          <a
+            href="https://play.google.com/store/apps/details?id=com.brewhackers.android.pondr"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={GooglePlayStore} alt="GooglePlayStore " />
+          </a>
         </div>
       </div>
     </div>
