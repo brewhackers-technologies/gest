@@ -1,0 +1,29 @@
+.download-container {
+    text-align: center;
+    margin: calc(var(--diagonal-y-scale) / 2) calc(var(--diagonal-x-scale) / 2);
+    font-family: "Poppins";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.download-container>div {
+    padding: 10px;
+}
+
+.download-container .download-links>img {
+    padding: 10px 0 0 0;
+}
+
+@media only screen and (min-width: 320px) {}
+
+@media only screen and (min-width: 425px) {
+    .download-container .download-links>img {
+        padding: 10px 10px 0 0;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .download-container .download-links>img {
+        padding: 10px 10px 0 0;
+    }
+}
