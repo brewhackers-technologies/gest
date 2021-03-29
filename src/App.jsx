@@ -1,5 +1,5 @@
 import "./App.css";
-import { BrowserRouter, Route } from "react-router-dom";
+import { HashRouter, Route } from "react-router-dom";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import Dashboard from "./components/Dashboard/Dashboard";
@@ -15,7 +15,7 @@ function App() {
   }, []);
   return (
     <>
-      <BrowserRouter>
+      <HashRouter>
         <div className="App">
           <ScrollToTop />
           <Route path="/" component={Dashboard} exact />
@@ -23,7 +23,7 @@ function App() {
           <Route path="/terms-of-service" component={TermsAndCondition} exact />
           <Route path="/support" component={Support} exact />
         </div>
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 }
