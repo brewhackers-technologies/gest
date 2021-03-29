@@ -6,15 +6,13 @@ export default function Footer() {
   return (
     <>
       <footer className="footer-container">
-        <div>
-          <div class="copyright ">
-            <a
-              className="empty-url-style no-link-style"
-              href="https://brewhackers.com"
-            >
-              2021 © Brewhackers Technologies
-            </a>
-          </div>
+        <div class="copyright ">
+          <a
+            className="empty-url-style no-link-style"
+            href="https://brewhackers.com"
+          >
+            2021 © Brewhackers Technologies
+          </a>
         </div>
         <div className="contact-us">
           <div>Contact Us</div>
@@ -36,8 +34,8 @@ export default function Footer() {
             </div>
 
             <div className="policy-link">
-              <Link to="/support" className="no-link-style">
-                Support
+              <Link to="/editorial-policy" className="no-link-style">
+                Editorial Policy
               </Link>
             </div>
           </div>

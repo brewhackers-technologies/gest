@@ -1,4 +1,6 @@
 import React from "react";
+import { Link } from "react-router-dom";
+import Logo from "../../assets/images/logo.png";
 import Footer from "../Footer/Footer";
 import "./TermsAndCondition.css";
 
@@ -6,6 +8,9 @@ export default function TermsAndCondition() {
   return (
     <>
       <div className="container" data-aos="fade-left">
+        <Link to="/">
+          <img className="logo-img" src={Logo} alt="Gest Logo" />
+        </Link>
         <div className="title">TERMS OF USE AND SERVICE</div>
         <p data-aos="fade-left">
           Welcome to <strong>Pondr!</strong>

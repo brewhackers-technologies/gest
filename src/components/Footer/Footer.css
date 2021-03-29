@@ -22,7 +22,8 @@
 .footer-container .policies,
 .footer-container .contact-us,
 .footer-container .contact-us>div,
-.footer-container .policies>div {
+.footer-container .policies>div,
+.footer-container .copyright {
     padding: 0.5rem 0;
 }
 
@@ -47,5 +48,8 @@
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: space-around;
+    }
+    .footer-container .copyright {
+        padding: 0;
     }
 }

@@ -249,6 +249,10 @@ body {
     text-decoration: none;
 }
 
+.logo-img {
+    height: 8vh;
+}
+
 
 /* Privacy, Terms and Support */
 
@@ -266,13 +270,15 @@ body {
     font-family: "Poppins";
 }
 
-.container>p {
+.container>p,
+.container ol li ul {
     padding: 3vh 0;
     font-weight: 300;
 }
 
 .container p>strong,
-li>b {
+li>b,
+.container ol li p {
     font-weight: bold;
 }
 
@@ -294,7 +300,8 @@ ol {
 @media only screen and (min-width: 425px) {}
 
 @media only screen and (min-width: 768px) {
-    .container>p {
+    .container>p,
+    .container ol li ul {
         padding: 2vh 0;
         font-weight: 300;
     }
