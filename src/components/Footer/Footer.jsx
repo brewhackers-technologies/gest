@@ -7,11 +7,20 @@ export default function Footer() {
     <>
       <footer className="footer-container">
         <div>
-          <div>2021 © Brewhackers Technologies</div>
+          <div class="copyright ">
+            <a
+              className="empty-url-style no-link-style"
+              href="https://brewhackers.com"
+            >
+              2021 © Brewhackers Technologies
+            </a>
+          </div>
         </div>
         <div className="contact-us">
           <div>Contact Us</div>
-          <a href="mailto:team@getpondr.com">team@getpondr.com</a>
+          <a className="empty-url-style" href="mailto:hello@gist.website.com">
+            hello@gist.website.com
+          </a>
         </div>
         <div>
           <div className="policies">

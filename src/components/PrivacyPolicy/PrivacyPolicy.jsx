@@ -5,9 +5,9 @@ import Footer from "../Footer/Footer";
 export default function PrivacyPolicy() {
   return (
     <>
-      <div className="container">
+      <div className="container" data-aos="fade-left">
         <div className="title">Privacy Policy</div>
-        <p>
+        <p data-aos="fade-left">
           This Privacy Policy explains how{" "}
           <strong>Brewhackers Technologies Private Limited</strong> (
           <i>collectively</i>
@@ -17,7 +17,7 @@ export default function PrivacyPolicy() {
           (collectively, our <i>“Services”</i>), contact our customer service
           team, engage with us on social media, or otherwise interact with us.
         </p>
-        <p>
+        <p data-aos="fade-left">
           We may change this Privacy Policy from time to time. If we make
           changes, we will notify you by revising the date at the top of this
           policy and, in some cases, we may provide you with additional notice
@@ -26,10 +26,10 @@ export default function PrivacyPolicy() {
           regularly to stay informed about our information practices and the
           choices available to you.
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>COLLECTION OF INFORMATION</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           We collect information you provide directly to us. For example, you
           share information directly with us when you create an account, fill
           out a form, submit or post content through our Services, communicate
@@ -40,21 +40,20 @@ export default function PrivacyPolicy() {
           posts, responses by you, and any other information you choose to
           provide.
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>COLLECTION OF INFORMATION THROUGH INTERACTION</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           In some instances, we automatically collect certain information,
           including:
         </p>
         <ul>
-          <li>
+          <li data-aos="fade-left">
             <strong>Activity Information:</strong> We collect information about
             your activity on our Services, such as your reading history and when
             you share links and follow users.
           </li>
-          <p></p>
-          <li>
+          <li data-aos="fade-left">
             <strong>Device and Usage Information:</strong> We collect
             information about how you access our Services, including data about
             the device and network you use, such as your hardware model,
@@ -64,8 +63,7 @@ export default function PrivacyPolicy() {
             times, pages viewed, links clicked, and the page you visited before
             navigating to our Services. users.
           </li>
-          <p></p>
-          <li>
+          <li data-aos="fade-left">
             <strong>
               Information Collected by Cookies and Similar Tracking
               Technologies:
@@ -86,90 +84,79 @@ export default function PrivacyPolicy() {
             and better understand your online activity. users.
           </li>
         </ul>
-        <p>
+        <p data-aos="fade-left">
           <strong>DERIVATION OF INFORMATION</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           We may derive information or draw inferences about you based on the
           information we collect. For example, we may make inferences about your
           location based on your IP address or infer reading preferences based
           on your reading history.
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>USE OF INFORMATION</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           We use the information we collect to provide, maintain, and improve
           our Services, which includes publishing user-generated content and
           personalizing the posts you see. We also use the information we
           collect to:
         </p>
         <ol>
-          <li>Create and maintain your Pondr account;</li>
-          <p></p>
-
-          <li>
+          <li data-aos="fade-left">Create and maintain your Pondr account;</li>
+          <li data-aos="fade-left">
             To provide the services we offer on the Pondr and make it available
             to the public, communicate with you about your use of Pondr, respond
             to your inquiries, provide troubleshooting, and for other customer
             service purposes.
           </li>
-          <p></p>
-
-          <li>
+          <li data-aos="fade-left">
             Send you technical notices, security alerts, and support and
             administrative messages;
           </li>
-          <p></p>
-
-          <li>
+          <li data-aos="fade-left">
             Respond to your comments and questions and provide customer service;
           </li>
-          <p></p>
-
-          <li>
+          <li data-aos="fade-left">
             Communicate with you about new content, products, services, and
             features offered by Pondr and provide other news and information we
             think will interest you Monitor and analyze trends, usage, and
             activities in connection with our Services;
           </li>
-          <p></p>
-
-          <li>
+          <li data-aos="fade-left">
             Detect, investigate, and prevent security incidents and other
             malicious, deceptive, fraudulent, or illegal activity, situations
             involving potential threats to the safety of any person or
             violations of our Terms of Service or this Privacy Policy and to
             protect the rights and property of Pondr and others;
           </li>
-          <p></p>
-
-          <li>Debug to identify and repair errors in our Services;</li>
-          <p></p>
-
-          <li>
+          <li data-aos="fade-left">
+            Debug to identify and repair errors in our Services;
+          </li>
+          <li data-aos="fade-left">
             Carry out any other purpose described to you at the time the
             information was collected.
           </li>
-          <p></p>
         </ol>
-        <p>
+        <p data-aos="fade-left">
           <strong>SERVICE PROVIDERS:</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           We may employ third-party companies and Individuals due to the
           following reasons:
         </p>
         <ol>
-          <li>To facilitate our service</li>
-          <li>To provide service on our behalf</li>
-          <li>To perform service related services</li>
-          <li>To assist us in analyzing how our service is used</li>
+          <li data-aos="fade-left">To facilitate our service</li>
+          <li data-aos="fade-left">To provide service on our behalf</li>
+          <li data-aos="fade-left">To perform service related services</li>
+          <li data-aos="fade-left">
+            To assist us in analyzing how our service is used
+          </li>
         </ol>
-        <p>
+        <p data-aos="fade-left">
           <strong>THIRD-PARTY EMBEDS</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           Pondr does not host some of the content displayed on our Services.
           Users have the ability to post content that is actually hosted by a
           third party, but is embedded in our pages (an{" "}
@@ -191,11 +178,10 @@ export default function PrivacyPolicy() {
           whose information practices are subject to their own policies and
           procedures, not to this Privacy Policy.
         </p>
-
-        <p>
+        <p data-aos="fade-left">
           <strong>PROMOTE SAFETY, INTEGRITY AND SECURITY</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           We use the information we have to verify accounts and activity, combat
           harmful conduct, detect and prevent bad experiences, maintain the
           integrity of our Products, and promote safety and security on and off
@@ -203,11 +189,10 @@ export default function PrivacyPolicy() {
           activity or violations of our terms or policies.
         </p>
         <br />
-
-        <p>
+        <p data-aos="fade-left">
           <strong>PROTECTION OF INFORMATION</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           The security of your information is important to us. Pondr has
           implemented safeguards to protect the information we collect. However,
           no website or Internet transmission is completely secure. We urge you
@@ -216,30 +201,24 @@ export default function PrivacyPolicy() {
           your user account on a shared or unsecured device.
         </p>
         <ol>
-          <li>
+          <li data-aos="fade-left">
             <strong>Access and amend your information:</strong> You may update
             or correct your account information at any time by logging in to
             your account. You may also make a number of other adjustments to
             settings or the display of information about you.
           </li>
-          <p></p>
-
-          <li>
+          <li data-aos="fade-left">
             <strong>Your Content:</strong> You may edit or delete your posts at
             any time. Any deleted content will be removed from third-party sites
             from which it has been shared via Pondr’s standard sharing features;
             however, we have no control over deletions or changes to your
             content
           </li>
-          <p></p>
-
-          <li>
+          <li data-aos="fade-left">
             <strong>Topics:</strong> You can change topics that you are
             affiliated with in your profile.
           </li>
-          <p></p>
-
-          <li>
+          <li data-aos="fade-left">
             <strong>Linked Networks:</strong> You may connect or disconnect your
             Linked Networks, such as Google, through the Account Settings tab in
             your profile settings, and you may access, amend and delete much of
@@ -250,15 +229,14 @@ export default function PrivacyPolicy() {
             profile and, if you enable contact imports, how you message your
             contacts to find and connect with you on Pondr. if it has been
             shared manually by others.
-          </li>
-          <p></p>
+          </li>{" "}
         </ol>
         <br />
 
-        <p>
+        <p data-aos="fade-left">
           <strong>CHILDREN’S PRIVACY</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           We do not knowingly collect or solicit personal information from
           anyone under the age of 13 or knowingly allow such persons to
           register. If we become aware that we have collected personal
@@ -270,16 +248,16 @@ export default function PrivacyPolicy() {
         </p>
         <br />
 
-        <p>
+        <p data-aos="fade-left">
           <strong>DATA POLICY:</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           The California Consumer Privacy Act or <i>“CCPA”</i> (Cal. Civ. Code §
           1798.100 et seq.) affords consumers residing in California certain
           rights with respect to their personal information. If you are a
           California resident, this section applies to you.
         </p>
-        <p>
+        <p data-aos="fade-left">
           In the preceding 12 months, we have collected the following categories
           of personal information: identifiers, commercial information, internet
           or other electronic network activity information, and inferences. For
@@ -289,39 +267,39 @@ export default function PrivacyPolicy() {
           business and commercial purposes described in the Use of Information
           section above.
         </p>
-        <p>
+        <p data-aos="fade-left">
           Under the CCPA, you have a right to request information about our
           collection, use, and disclosure of your personal information over the
           prior 12 months, and ask that we provide you with the following
           information:
         </p>
         <ol>
-          <li>
+          <li data-aos="fade-left">
             Categories of and specific pieces of personal information we have
             collected about you.
           </li>
-          <li>
+          <li data-aos="fade-left">
             Categories of sources from which we collect personal information.
           </li>
-          <li>
+          <li data-aos="fade-left">
             Purposes for collecting, using, or selling personal information.
           </li>
-          <li>
+          <li data-aos="fade-left">
             Categories of third parties with which we share personal
             information.
           </li>
-          <li>
+          <li data-aos="fade-left">
             Categories of personal information disclosed about you for a
             business purpose.
           </li>
-          <li>
+          <li data-aos="fade-left">
             If applicable, categories of personal information sold about you and
             the categories of third parties to which the personal information
             was sold, by category or categories of personal information for each
             third party to which the personal information was sold.
           </li>
         </ol>
-        <p>
+        <p data-aos="fade-left">
           You may make these requests by contacting us. We will not discriminate
           against you if you exercise your rights under the CCPA. If we receive
           your request from an authorized agent, we may ask for evidence that
@@ -333,12 +311,12 @@ export default function PrivacyPolicy() {
         </p>
         <br />
 
-        <p>
+        <p data-aos="fade-left">
           <strong>
             ADDITIONAL DISCLOSURES FOR USERS IN EUROPEAN ECONOMIC AREA
           </strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           If you are located in the European Economic Area (
           <i>
             <strong>“EEA”</strong>
@@ -349,30 +327,30 @@ export default function PrivacyPolicy() {
         </p>
         <br />
 
-        <p>
+        <p data-aos="fade-left">
           <strong>Legal Basis for Processing</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           When we process your personal data, we will do so in reliance on the
           following lawful bases:
         </p>
         <ol>
-          <li>
+          <li data-aos="fade-left">
             To perform our responsibilities under our contract with you (e.g.,
             providing the products and services you requested).
           </li>
-          <li>
+          <li data-aos="fade-left">
             When we have a legitimate interest in processing your personal data
             to operate our business or protect our interests (e.g., to provide,
             maintain, and improve our products and services, conduct data
             analytics, and communicate with you).
           </li>
-          <li>
+          <li data-aos="fade-left">
             To comply with our legal obligations (e.g., to maintain a record of
             your consents and track those who have opted out of
             non-administrative communications).
           </li>
-          <li>
+          <li data-aos="fade-left">
             When we have your consent to do so (e.g., when you opt in to receive
             non-administrative communications from us). When consent is the
             legal basis for our processing your personal data, you may withdraw
@@ -381,10 +359,10 @@ export default function PrivacyPolicy() {
         </ol>
         <br />
 
-        <p>
+        <p data-aos="fade-left">
           <strong>ADDITIONAL DISCLOSURES FOR USERS IN INDIA:</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           Indian law defines ‘sensitive personal information’ to mean
           information relating to: (i) passwords; (ii) financial information
           such as bank account/credit card/debit card details; (iii) physical,
@@ -401,22 +379,22 @@ export default function PrivacyPolicy() {
           sensitive personal information in Your Content or by providing
           sensitive personal information in your registration information.
         </p>
-        <p>
+        <p data-aos="fade-left">
           If an individual in India deletes or deactivates their account, then
           their personal information will be deleted as per requirements under
           applicable law.
         </p>
-        <p>
+        <p data-aos="fade-left">
           While transferring personal information collected from individuals in
           India, we will ensure that it is transferred to entities that offer at
           least the same levels of data protection as adhered to by us.
         </p>
         <br />
 
-        <p>
+        <p data-aos="fade-left">
           <strong>Data Retention</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           We store personal data associated with your account for as long as
           your account remains active. If you close your account, we will delete
           your account data within 14 days. We store other personal data for as
@@ -426,20 +404,20 @@ export default function PrivacyPolicy() {
         </p>
         <br />
 
-        <p>
+        <p data-aos="fade-left">
           <strong>Data Subject Requests</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           Subject to certain limitations, you have the right to request access
           to the personal data we hold about you and to receive your data in a
           portable format, the right to ask that your personal data be corrected
           or erased, and the right to object to, or request that we restrict,
           certain processing.
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>CONTACT US:</strong> If you have any questions or suggestions
           about our Privacy Policy, you can contact us on{" "}
-          <a href="mailto:team@getpondr.com">team@getpondr.com</a>
+          <a href="mailto:hello@gist.website.com">hello@gist.website.com</a>
         </p>
       </div>
       <Footer />

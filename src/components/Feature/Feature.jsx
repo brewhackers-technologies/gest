@@ -1,5 +1,6 @@
 import React from "react";
 import "./Feature.css";
+
 export default function Feature({ sequence, title, content }) {
   const isEvenNumber = () => {
     if (sequence % 2 === 0) {
@@ -9,7 +10,10 @@ export default function Feature({ sequence, title, content }) {
   };
 
   return (
-    <div className="feature-container">
+    <div
+      className="feature-container"
+      data-aos={`${isEvenNumber() ? "fade-right" : "fade-left"}`}
+    >
       <div
         className={`app-detail-container ${
           isEvenNumber()

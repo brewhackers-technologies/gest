@@ -5,12 +5,12 @@ import Footer from "../Footer/Footer";
 export default function Support() {
   return (
     <>
-      <div className="container">
-        <div class="title">Pondr FAQs</div>
-        <p>
+      <div className="container" data-aos="fade-left">
+        <div className="title">Pondr FAQs</div>
+        <p data-aos="fade-left">
           <strong>What is Pondr?</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           Pondr is a platform for curious people to create, consume and share
           bite-sized shorticles on any topic of your choice. It consists of
           eloquent short stories on diversified subjects with sources for
@@ -21,10 +21,10 @@ export default function Support() {
           to empower everyone to share their knowledge for the benefit of the
           rest of the world.
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>How do I start using Pondr?</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           Pondr works by having the community read and write bite-sized
           shorticles on the platform. Use your feed to tell us what you're
           interested in reading. Your feed is filled with stories that interest
@@ -32,86 +32,92 @@ export default function Support() {
           feed by following topics and people, and taking actions in feed that
           tell us what you like.
           <ul>
-            <li>
+            <li data-aos="fade-left">
               <strong>Topics:</strong> When you follow a topic, shorticles with
               that topic will appear in your feed
             </li>
-            <li>
+            <li data-aos="fade-left">
               <strong>People:</strong> When you follow people, you will see
               shorticles posted by these people in your feed.
             </li>
-            <li>
+            <li data-aos="fade-left">
               The easiest first step: start by following{" "}
               <strong>some topics</strong>
               that you care about and <strong>some people</strong> who write
               about them.
             </li>
-            <li>
+            <li data-aos="fade-left">
               <strong>Like and Comment:</strong> When you read a post that you
               like, make sure to encourage the writer by liking and/or
               commenting on their post to show your support.
             </li>
           </ul>
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>How do I add/Change my profile picture?</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           You can add or change your profile picture:
           <ul>
-            <li>
+            <li data-aos="fade-left">
               Visit your profile page, which you can access via the person icon
               on the navigation tab.
             </li>
-            <li>Tap the "• • •" icon</li>
-            <li>Tap on the option to "Edit Profile"</li>
-            <li>Tap on "edit"</li>
+            <li data-aos="fade-left">Tap the "• • •" icon</li>
+            <li data-aos="fade-left">Tap on the option to "Edit Profile"</li>
+            <li data-aos="fade-left">Tap on "edit"</li>
           </ul>
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>How do I start writing on Pondr?</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           In order to start writing on Pondr, you can:
           <ul>
-            <li>Tap on the ‘+’ button the navigation tab.</li>
-            <li>Add your title by filling up the ‘Your Title Here’</li>
-            <li>
+            <li data-aos="fade-left">
+              Tap on the ‘+’ button the navigation tab.
+            </li>
+            <li data-aos="fade-left">
+              Add your title by filling up the ‘Your Title Here’
+            </li>
+            <li data-aos="fade-left">
               You can start writing your post by filling up the ‘Write something
               wonderful’ section.
             </li>
-            <li>
+            <li data-aos="fade-left">
               You can add a cover photo by clicking on the ‘Cover Photo’ icon at
               the end of your screen.
             </li>
-            <li>
+            <li data-aos="fade-left">
               Similarly, you can add relevant links and sources by clicking on
               the ‘Source’ icon.
             </li>
-            <li>
+            <li data-aos="fade-left">
               You can use the ‘Topics’ section to categorize your post under a
               particular topic.
             </li>
           </ul>
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>How can I follow people on Pondr?</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           To follow people on Pondr,
           <ul>
-            <li>Tap on the Writer’s Name to visit their profile</li>
-            <li>
+            <li data-aos="fade-left">
+              Tap on the Writer’s Name to visit their profile
+            </li>
+            <li data-aos="fade-left">
               You can follow the writer by tapping on the yellow ‘follow’ icon.
             </li>
           </ul>
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>
             How do I share Pondr shorticles that I like on other websites?
           </strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           In order to share Pondr shorticles on other websites, you can tap on
           the arrow up icon at the right-end of your screen. You will be able to
           post the shorticles on multiple mobile apps and websites as per your
@@ -120,29 +126,33 @@ export default function Support() {
         <p id="edit-shorticle">
           <strong>How to Edit or Delete published shorticle?</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           <ul>
-            <li>Go to profile by tapping on person icon on navigation tab.</li>
-            <li>
+            <li data-aos="fade-left">
+              Go to profile by tapping on person icon on navigation tab.
+            </li>
+            <li data-aos="fade-left">
               Long press or tap and hold your finger on shorticle which you
               would like to edit or delete.
             </li>
-            <li>A menu will appear at bottom of the screen.</li>
-            <li>
+            <li data-aos="fade-left">
+              A menu will appear at bottom of the screen.
+            </li>
+            <li data-aos="fade-left">
               Tap "Edit" to edit the shorticle, or "Delete" to delete the art
             </li>
           </ul>
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>What is an ‘Acceptable Use’ of Pondr?</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           Providing a safe and open Service for a broad community requires that
           we all do our part. In order to maintain the highest level of
           security, the following activities are considered to be misuse of
           Pondr and are completely prohibited:
           <ul>
-            <li>
+            <li data-aos="fade-left">
               <strong>
                 You can't impersonate others or provide inaccurate information:
               </strong>{" "}
@@ -153,8 +163,7 @@ export default function Support() {
               aren't, and you can't create an account for someone else unless
               you have their express permission.
             </li>
-            <p></p>
-            <li>
+            <li data-aos="fade-left">
               <strong>
                 You can't do anything unlawful, misleading, or fraudulent or for
                 an illegal or unauthorized purpose (including hacking):
@@ -167,8 +176,7 @@ export default function Support() {
               activity, we are authorized to take necessary action against the
               user.
             </li>
-            <p></p>
-            <li>
+            <li data-aos="fade-left">
               <strong>
                 You cannot post any scandalous and objectionable content:
               </strong>
@@ -183,8 +191,7 @@ export default function Support() {
               meet our guidelines, we will be removing the content within 24
               hours and ejecting the user providing objectionable content.
             </li>
-            <p></p>
-            <li>
+            <li data-aos="fade-left">
               <strong>
                 You must agree to the Terms and Conditions of the End User
                 License Agreement (EULA) and must not perform any activity in
@@ -196,15 +203,13 @@ export default function Support() {
               the app or misusing it in any way, and it ensures that you retain
               your existing rights over the asset.
             </li>
-            <p></p>
-            <li>
+            <li data-aos="fade-left">
               <strong>
                 You can't use our domain name or URL in your username without
                 our prior written consent.
               </strong>
             </li>
-            <p></p>
-            <li>
+            <li data-aos="fade-left">
               <strong>
                 You can't post someone else’s private or confidential
                 information without permission or do anything that violates
@@ -219,8 +224,7 @@ export default function Support() {
               else’s copyrighted work or trademark (either expressly or by legal
               exceptions and limitations like fair use), don’t do it.
             </li>
-            <p></p>
-            <li>
+            <li data-aos="fade-left">
               <strong>
                 You can’t sell, license, or purchase any account or data
                 obtained from us or our Service:
@@ -230,8 +234,7 @@ export default function Support() {
               login credentials or badges of other users; or request or collect
               Pondr usernames, passwords, or misappropriate access tokens.
             </li>
-            <p></p>
-            <li>
+            <li data-aos="fade-left">
               <strong>
                 You’re not allowed to copy, modify Pondr or any part of it, or
                 our Trademarks in any way. You’re also not allowed to extract
@@ -243,8 +246,7 @@ export default function Support() {
               always be owned by and be the property of
               <strong>Brewhackers Technologies Private Limited</strong>.
             </li>
-            <p></p>
-            <li>
+            <li data-aos="fade-left">
               <strong>
                 You can't attempt to create accounts or access or collect
                 information in unauthorized ways:
@@ -252,8 +254,7 @@ export default function Support() {
               This includes creating accounts or collecting information in an
               automated way without our express permission.
             </li>
-            <p></p>
-            <li>
+            <li data-aos="fade-left">
               <strong>
                 You can't do anything to interfere with or impair the intended
                 operation of the Service:
@@ -261,8 +262,7 @@ export default function Support() {
               This includes misusing any reporting, dispute, or appeals channel,
               such as by making fraudulent or groundless reports or appeals.
             </li>
-            <p></p>
-            <li>
+            <li data-aos="fade-left">
               <strong>
                 You can't violate (or help or encourage others to violate) these
                 Terms or our policies, including our Privacy & Data Policies.
@@ -270,40 +270,40 @@ export default function Support() {
             </li>
           </ul>
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>How can a Pondr Member report a shorticle?</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           If you find a member post on Pondr that violates these rules, please
           report it. Any member of the Pondr community can report a shorticle by
           tapping on the title of the post that he/she wants to report.
           Additionally, you can also send us an email at
-          <a href="mailto:team@getpondr.com">team@getpondr.com</a>.
+          <a href="mailto:hello@gist.website.com">hello@gist.website.com</a>.
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>How can a Pondr Member report a user?</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           If you find a member account on Pondr violates these rules, please
           report it. Any member of the Pondr community can report account by
           tapping on the "• • •" icon. Additionally, you can also send us an
           email at
-          <a href="mailto:team@getpondr.com">team@getpondr.com</a>.
+          <a href="mailto:hello@gist.website.com">hello@gist.website.com</a>.
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>Where can I see Follow Topics?</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           Go to profile by tapping on person icon on navigation tab then Tap "•
           • •" icon. A modal will opened from bottom, tap "Follow Topics".
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>
             What happens if a Pondr user violates the Community Guidelines
             and/or Terms of Use?
           </strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           We can remove any content or information you share on the Service if
           we believe that it violates our Terms of Use, our Community
           Guidelines, or our Privacy Policy (including our Data Policy), or we
@@ -319,7 +319,7 @@ export default function Support() {
           avoid or mitigate adverse legal or regulatory impacts on us. If you
           believe your account has been terminated in error, or you want to
           disable or permanently delete your account, contact us directly on{" "}
-          <a href="mailto:team@getpondr.com">team@getpondr.com</a>.
+          <a href="mailto:hello@gist.website.com">hello@gist.website.com</a>.
         </p>
       </div>
       <Footer />

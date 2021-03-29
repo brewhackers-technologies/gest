@@ -245,6 +245,10 @@ body {
     flex: 1;
 }
 
+.empty-url-style {
+    text-decoration: none;
+}
+
 
 /* Privacy, Terms and Support */
 

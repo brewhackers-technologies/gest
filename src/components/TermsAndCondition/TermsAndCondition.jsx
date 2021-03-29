@@ -5,12 +5,12 @@ import "./TermsAndCondition.css";
 export default function TermsAndCondition() {
   return (
     <>
-      <div className="container">
-        <div class="title">TERMS OF USE AND SERVICE</div>
-        <p>
+      <div className="container" data-aos="fade-left">
+        <div className="title">TERMS OF USE AND SERVICE</div>
+        <p data-aos="fade-left">
           Welcome to <strong>Pondr!</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           These <strong>Terms of Use</strong> (or “Terms”) govern your use of
           Pondr (through Brewhackers Technologies Private Limited{" "}
           <i>collectively</i> ‘Pondr’, ‘we’ and ‘us’), except where we expressly
@@ -22,21 +22,21 @@ export default function TermsAndCondition() {
           registration options (e.g., “Continue,” “Sign-in,” or “Sign-up,”) or
           by using our Services.
         </p>
-        <p>
+        <p data-aos="fade-left">
           We agree to provide you with the Pondr Service. The Service includes
           all of the Pondr product, features, application, services,
           technologies, and software that we provide to advance Pondr's mission:
           To create a better version of you. The Service is made up of the
           following aspects:
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>Ensuring access to our Service:</strong> To operate our global
           Service, we must store and transfer data across our systems around the
           world, including outside of your country of residence. The use of this
           global infrastructure is necessary and essential to provide our
           Service.
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>
             Offering personalized opportunities to create, consume, discover,
             and share bite-sized shorticles:
@@ -49,7 +49,7 @@ export default function TermsAndCondition() {
           and accounts you might be interested in, and offering ways for you to
           experience Pondr, based on things you and others do on and off Pondr.
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>
             Fostering a positive, inclusive, and safe environment:
           </strong>{" "}
@@ -61,7 +61,7 @@ export default function TermsAndCondition() {
           have-including your information-to try to keep our platform secure.
           Learn more about this in our Privacy Policy
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>Research and innovation:</strong> We use the information we
           have to study our Service and collaborate with others on research to
           make our Service better and contribute to the well-being of our
@@ -69,46 +69,44 @@ export default function TermsAndCondition() {
         </p>
         <br />
 
-        <p>
+        <p data-aos="fade-left">
           <strong>TERMS OF USAGE:</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>
             In return for our commitment to provide the Service, we require you
             to make the below commitments to us.
           </strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>Who can use Pondr?</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           We want our Service to be as open and inclusive as possible, but we
           also want it to be safe, secure, and in accordance with the law. So,
           we need you to commit to a few restrictions in order to be part of the
           Pondr community.
         </p>
         <ol>
-          <li>
+          <li data-aos="fade-left">
+            {" "}
             You must be at least 13 years old or the minimum legal age in your
             country to use Pondr.
           </li>
-          <p></p>
 
-          <li>
+          <li data-aos="fade-left">
             You must not be prohibited from receiving any aspect of our Service
             under applicable laws or engaging in payments related Services if
             you are on an applicable denied party listing.
           </li>
-          <p></p>
 
-          <li>
+          <li data-aos="fade-left">
             We must not have previously disabled your account for violation of
             law or any of our policies.
           </li>
-          <p></p>
         </ol>
         <br />
-        <p>
+        <p data-aos="fade-left">
           <strong>Acceptable Usage of Pondr:</strong> Providing a safe and open
           Service for a broad community requires that we all do our part. In
           order to maintain the highest level of security, the following
@@ -116,7 +114,7 @@ export default function TermsAndCondition() {
           prohibited:
         </p>
         <ol>
-          <li>
+          <li data-aos="fade-left">
             <strong>
               You can't impersonate others or provide inaccurate information:
             </strong>{" "}
@@ -127,9 +125,8 @@ export default function TermsAndCondition() {
             and you can't create an account for someone else unless you have
             their express permission.
           </li>
-          <p></p>
 
-          <li>
+          <li data-aos="fade-left">
             <strong>
               You can't do anything unlawful, misleading, or fraudulent or for
               an illegal or unauthorized purpose (including hacking):
@@ -142,9 +139,8 @@ export default function TermsAndCondition() {
             activity, we are authorized to take necessary action against the
             user.
           </li>
-          <p></p>
 
-          <li>
+          <li data-aos="fade-left">
             <strong>
               You cannot post any scandalous and objectionable content:
             </strong>{" "}
@@ -158,21 +154,21 @@ export default function TermsAndCondition() {
             on all objectionable content reports and if they don’t meet our
             guidelines, we will be removing the content within 24 hours and
             ejecting the user providing objectionable content.
-            <p>
+            <p data-aos="fade-left">
               <strong>
                 Objectionable Content: Any content that users would find to be
                 offensive, upsetting, or inappropriate amounts to objectionable
                 content.
               </strong>
             </p>
-            <p>
+            <p data-aos="fade-left">
               We welcome thoughtful and civil discussion from a broad spectrum
               of viewpoints. Nevertheless, to maintain a safe and welcoming
               environment for a wide range of people to engage through
               meaningful shorticles, we prohibit certain conduct.
             </p>
             <ul>
-              <li>
+              <li data-aos="fade-left">
                 <strong>Threats of violence and incitement:</strong> We do not
                 allow content or actions that threaten, encourage, or incite
                 violence against anyone, directly or indirectly. Pondr is not a
@@ -188,8 +184,8 @@ export default function TermsAndCondition() {
                 content involving minors or threatening to post intimate images
                 of others.
               </li>
-              <p></p>
-              <li>
+
+              <li data-aos="fade-left">
                 <strong>Nudity and Sexually explicit Content:</strong> We don’t
                 allow nudity on Pondr. This includes pictures and some
                 digitally-created content that show sexual intercourse,
@@ -198,14 +194,14 @@ export default function TermsAndCondition() {
                 post-mastectomy scarring are allowed. Nudity in pictures of
                 paintings and sculptures are allowed.
               </li>
-              <p></p>
-              <li>
+
+              <li data-aos="fade-left">
                 <strong>Exploitation of minors:</strong> We do not allow content
                 promoting the sexual or violent exploitation of minors,
                 including the sexualization of fictional minors.
               </li>
-              <p></p>
-              <li>
+
+              <li data-aos="fade-left">
                 <strong>Hate speech:</strong> We do not allow content that
                 promotes violence or hatred against people based on
                 characteristics like race, ethnicity, national origin, religion,
@@ -229,8 +225,8 @@ export default function TermsAndCondition() {
                 to raise awareness, we may allow it. In those instances, we ask
                 that you express your intent clearly.
               </li>
-              <p></p>
-              <li>
+
+              <li data-aos="fade-left">
                 <strong>Harassment and Bullying:</strong> We don’t tolerate
                 harassment, which includes: Bullying, threatening, or shaming
                 someone, or posting things likely to encourage others to do so.
@@ -240,8 +236,8 @@ export default function TermsAndCondition() {
                 disabilities, or diseases. Bullying and harassment is strictly
                 prohibited.
               </li>
-              <p></p>
-              <li>
+
+              <li data-aos="fade-left">
                 <strong>Threats of Theft and Financial Harm:</strong> Serious
                 threats of harm to public and personal safety aren't allowed.
                 This includes specific threats of physical harm as well as
@@ -249,8 +245,8 @@ export default function TermsAndCondition() {
                 carefully review reports of threats and consider many things
                 when determining whether a threat is credible.
               </li>
-              <p></p>
-              <li>
+
+              <li data-aos="fade-left">
                 <strong>Promotion and glorification of self-harm:</strong> We do
                 not allow activities that encourage, promote or glorify acts of
                 self-harm, such as cutting, eating disorders like anorexia or
@@ -258,8 +254,8 @@ export default function TermsAndCondition() {
                 threatening self-harm, please report it to us via the form or
                 email address linked below.
               </li>
-              <p></p>
-              <li>
+
+              <li data-aos="fade-left">
                 <strong>Graphic Content and Images:</strong> We understand that
                 many people use Pondr to share important and newsworthy events.
                 Some of these issues can involve graphic images. Because so many
@@ -267,28 +263,28 @@ export default function TermsAndCondition() {
                 pictures of intense, graphic violence to make sure Pondr stays
                 appropriate for everyone.
               </li>
-              <p></p>
             </ul>
-            <p>
+            <p data-aos="fade-left">
               <strong>Restricted Categories:</strong> We do not allow posts or
               accounts that engage in the following restricted categories of
               activity:
             </p>
             <ul>
-              <li>Promotion of harmful conspiracies</li>
-              <p></p>
-              <li>Facilitation of gambling or betting</li>
-              <p></p>
-              <li>
+              <li data-aos="fade-left">Promotion of harmful conspiracies</li>
+
+              <li data-aos="fade-left">Facilitation of gambling or betting</li>
+
+              <li data-aos="fade-left">
                 Facilitation of buying or selling social media interactions,
                 including off-platform
               </li>
-              <p></p>
-              <li>Facilitation of illegal sexual services</li>
+
+              <li data-aos="fade-left">
+                Facilitation of illegal sexual services
+              </li>
             </ul>
           </li>
-          <p></p>
-          <li>
+          <li data-aos="fade-left">
             <strong>
               You must agree to the Terms and Conditions of the End User License
               Agreement (EULA) and must not perform any activity in violation of
@@ -300,17 +296,15 @@ export default function TermsAndCondition() {
             the app or misusing it in any way, and it ensures that you retain
             your existing rights over the asset.
           </li>
-          <p></p>
 
-          <li>
+          <li data-aos="fade-left">
             <strong>
               You can't use our domain name or URL in your username without our
               prior written consent.
             </strong>
           </li>
-          <p></p>
 
-          <li>
+          <li data-aos="fade-left">
             <strong>
               You can't post someone else’s private or confidential information
               without permission or do anything that violates someone else's
@@ -325,9 +319,8 @@ export default function TermsAndCondition() {
             copyrighted work or trademark (either expressly or by legal
             exceptions and limitations like fair use), don’t do it.
           </li>
-          <p></p>
 
-          <li>
+          <li data-aos="fade-left">
             <strong>
               You can’t sell, license, or purchase any account or data obtained
               from us or our Service:
@@ -337,9 +330,8 @@ export default function TermsAndCondition() {
             credentials or badges of other users; or request or collect Pondr
             usernames, passwords, or misappropriate access tokens.
           </li>
-          <p></p>
 
-          <li>
+          <li data-aos="fade-left">
             <strong>
               You’re not allowed to copy, modify Pondr or any part of it, or our
               Trademarks in any way. You’re also not allowed to extract the
@@ -351,9 +343,8 @@ export default function TermsAndCondition() {
             be owned by and be the property of{" "}
             <strong>Brewhackers Technologies Private Limited</strong>.
           </li>
-          <p></p>
 
-          <li>
+          <li data-aos="fade-left">
             <strong>
               You can't attempt to create accounts or access or collect
               information in unauthorized ways:
@@ -361,9 +352,8 @@ export default function TermsAndCondition() {
             This includes creating accounts or collecting information in an
             automated way without our express permission.
           </li>
-          <p></p>
 
-          <li>
+          <li data-aos="fade-left">
             <strong>
               You can't do anything to interfere with or impair the intended
               operation of the Service:
@@ -371,8 +361,7 @@ export default function TermsAndCondition() {
             This includes misusing any reporting, dispute, or appeals channel,
             such as by making fraudulent or groundless reports or appeals.
           </li>
-          <p></p>
-          <li>
+          <li data-aos="fade-left">
             <strong>
               You can't violate (or help or encourage others to violate) these
               Terms or our policies, including our Privacy & Data Policies.
@@ -380,7 +369,7 @@ export default function TermsAndCondition() {
           </li>
         </ol>
         <br />
-        <p>
+        <p data-aos="fade-left">
           <strong>
             PERMISSIONS: As part of our agreement, you also give us permissions
             that we need to provide the Service.
@@ -388,7 +377,7 @@ export default function TermsAndCondition() {
         </p>
 
         <ol>
-          <li>
+          <li data-aos="fade-left">
             <strong>
               We do not claim ownership of your content, but you grant us a
               license to use it.
@@ -410,9 +399,8 @@ export default function TermsAndCondition() {
             information, and how to control or delete your content, review our
             Privacy and Data Policy.
           </li>
-          <p></p>
 
-          <li>
+          <li data-aos="fade-left">
             <strong>
               Permission to use your username, profile picture, and information
               about your relationships and actions with accounts, ads, and
@@ -423,17 +411,15 @@ export default function TermsAndCondition() {
             or in connection with accounts, ads, and other sponsored content, if
             any.
           </li>
-          <p></p>
 
-          <li>
+          <li data-aos="fade-left">
             <strong>
               You give us permission to download and install updates to the
               Service on your device.
             </strong>
           </li>
-          <p></p>
 
-          <li>
+          <li data-aos="fade-left">
             <strong>Email newsletter:</strong> When you sign up for the Pondr
             Platform, the service includes receipt of newsletters and
             personalized content that may be of interest to you. You may opt out
@@ -443,10 +429,10 @@ export default function TermsAndCondition() {
           </li>
         </ol>
         <br />
-        <p>
+        <p data-aos="fade-left">
           <strong>CONTENT REMOVAL AND DISABLING/TERMINATING THE ACCOUNT</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           We can remove any content or information you share on the Service if
           we believe that it violates these Terms of Use, our policies
           (including our Data Policy), or we are permitted or required to do so
@@ -462,9 +448,9 @@ export default function TermsAndCondition() {
           us. If you believe your account has been terminated in error, or you
           want to disable or permanently delete your account, contact us
           directly on
-          <a href="mailto:team@getpondr.com">team@getpondr.com</a>.
+          <a href="mailto:hello@gist.website.com">hello@gist.website.com</a>.
         </p>
-        <p>
+        <p data-aos="fade-left">
           When you request to delete content or your account, the deletion
           process will automatically begin no more than 30 days after your
           request. It may take up to 90 days to delete content after the
@@ -475,10 +461,10 @@ export default function TermsAndCondition() {
           it from backups and disaster recovery systems.
         </p>
         <br />
-        <p>
+        <p data-aos="fade-left">
           <strong>TERMS OF SERVICE:</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>Brewhackers Technologies Private Limited</strong> is committed
           to ensuring that Pondr is as useful and efficient as possible. For
           that reason, we reserve the right to make changes to the mobile
@@ -486,12 +472,12 @@ export default function TermsAndCondition() {
           reason. We will never charge you for Pondr. Or it’s services without
           explicitly explaining what the user is paying for.
         </p>
-        <p>
+        <p data-aos="fade-left">
           If you’re using the app outside of an area with Wi-Fi, you should
           remember that your terms of the agreement with your mobile network
           provider will still apply.
         </p>
-        <p>
+        <p data-aos="fade-left">
           Pondr aims to give you great Services but there are some things we
           can’t guarantee. Your use of our Services is at your sole risk. You
           understand that our Services and any content posted or shared by users
@@ -500,7 +486,7 @@ export default function TermsAndCondition() {
           warranties of merchantability, fitness for a particular purpose,
           title, and non-infringement.
         </p>
-        <p>
+        <p data-aos="fade-left">
           In addition, Pondr doesn’t represent or warrant that our Services are
           accurate, complete, reliable, current or error-free. No advice or
           information obtained from Pondr or through the Services will create
@@ -514,7 +500,7 @@ export default function TermsAndCondition() {
           own risk. Some locations don’t allow the disclaimers in this paragraph
           and so they might not apply to you.
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>Limitation of Liability:</strong> We don’t exclude or limit
           our liability to you where it would be illegal to do so; this includes
           any liability for the gross negligence, fraud or intentional
@@ -527,18 +513,18 @@ export default function TermsAndCondition() {
           contract or agreement. In countries where exclusions or limitations of
           liability are allowed, Pondr and its parties won’t be liable for:
         </p>
-        <p>
+        <p data-aos="fade-left">
           (a) Any indirect, consequential, exemplary, incidental, punitive, or
           special damages, or any loss of use, data or profits, under any legal
           theory, even if Pondr or the other Pondr Parties have been advised of
           the possibility of such damages.
         </p>
-        <p>
+        <p data-aos="fade-left">
           (b) Other than for the types of liability we can’t limit by law (as
           described in this section), we limit the total liability of Pondr for
           any claim arising out of or relating to these Terms or our Services.
         </p>
-        <p>
+        <p data-aos="fade-left">
           Responsibility: Our Service is provided "as is," and we can't
           guarantee it will be safe and secure or will work perfectly all the
           time. TO THE EXTENT PERMITTED BY LAW, WE ALSO DISCLAIM ALL WARRANTIES,
@@ -546,14 +532,14 @@ export default function TermsAndCondition() {
           MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
           NON-INFRINGEMENT.
         </p>
-        <p>
+        <p data-aos="fade-left">
           We also don’t control what people and others do or say, and we aren’t
           responsible for their (or your) actions or conduct (whether online or
           offline) or content (including unlawful or objectionable content). We
           also aren’t responsible for services and features offered by other
           people or companies, even if you access them through our Service.
         </p>
-        <p>
+        <p data-aos="fade-left">
           Our responsibility for anything that happens on the Service (also
           called "liability") is limited as much as the law will allow. If there
           is an issue with our Service, we can't know what all the possible
@@ -564,22 +550,22 @@ export default function TermsAndCondition() {
           are possible. This includes when we delete your content, information,
           or account.
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>Termination:</strong> You’re free to stop using our Services
           at any time. We reserve the right to suspend or terminate your access
           to the Services with or without notice.
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>Severability:</strong> If any provision or part of a provision
           of these Terms is unlawful, void or unenforceable, that provision or
           part of the provision is deemed severable from these Terms and does
           not affect the validity and enforceability of any remaining
           provisions.
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>AMENDMENTS/UPDATES/CHANGES:</strong>
         </p>
-        <p>
+        <p data-aos="fade-left">
           We may change our Service and policies, and we may need to make
           changes to these Terms so that they accurately reflect our Service and
           policies. If we make changes, we’ll provide you with notice of them by
@@ -592,10 +578,10 @@ export default function TermsAndCondition() {
           the updated Terms. These Terms of Usage are effective as of 04 Jan
           2020.
         </p>
-        <p>
+        <p data-aos="fade-left">
           <strong>CONTACT US:</strong> If you have any questions or suggestions
           about our Terms and Conditions, you can contact us at{" "}
-          <a href="mailto:team@getpondr.com">team@getpondr.com</a>.
+          <a href="mailto:hello@gist.website.com">hello@gist.website.com</a>.
         </p>
       </div>
 

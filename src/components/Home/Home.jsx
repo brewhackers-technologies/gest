@@ -7,10 +7,10 @@ import GooglePlayStore from "../../assets/images/googleplay.svg";
 export default function Home() {
   return (
     <div className="home-container">
-      <div className="image-container">
+      <div className="image-container" data-aos="fade-right">
         <img className="app-image" src={AppPreview} alt="AppBox " />
       </div>
-      <div className="app-detail-container">
+      <div className="app-detail-container" data-aos="fade-left">
         <div>Tech News Simplified !</div>
         <div>
           We understand when it comes to tech news , there shouldn’t be any
@@ -19,7 +19,7 @@ export default function Home() {
         </div>
         <div>Short news for smart people</div>
         <div>Download and save time on reading !!</div>
-        <div className="download-links">
+        <div className="download-links" data-aos="flip-up">
           <a
             href="https://apps.apple.com/us/app/id1525140074"
             target="_blank"

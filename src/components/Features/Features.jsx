@@ -12,6 +12,7 @@ export default function Features() {
         key={1}
         sequence={1}
       />
+
       <Feature
         title={"Trending Topics !"}
         content={
@@ -20,6 +21,7 @@ export default function Features() {
         key={2}
         sequence={2}
       />
+
       <Feature
         title={"Top Sources"}
         content={
