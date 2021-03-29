@@ -14,15 +14,17 @@ function App() {
     AOS.init({ duration: 1000, mirror: false });
   }, []);
   return (
-    <BrowserRouter>
-      <ScrollToTop />
-      <div className="App">
-        <Route path="/" component={Dashboard} exact />
-        <Route path="/privacy-policy" component={PrivacyPolicy} exact />
-        <Route path="/terms-of-service" component={TermsAndCondition} exact />
-        <Route path="/support" component={Support} exact />
-      </div>
-    </BrowserRouter>
+    <>
+      <BrowserRouter>
+        <div className="App">
+          <ScrollToTop />
+          <Route path="/" component={Dashboard} exact />
+          <Route path="/privacy-policy" component={PrivacyPolicy} exact />
+          <Route path="/terms-of-service" component={TermsAndCondition} exact />
+          <Route path="/support" component={Support} exact />
+        </div>
+      </BrowserRouter>
+    </>
   );
 }
 
