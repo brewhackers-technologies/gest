@@ -219,16 +219,16 @@ export default function PrivacyPolicy() {
           <li data-aos="fade-left">
             You have a right to review and correct any errors in Your Personal
             Information available with Us. You may request Us in writing at{" "}
-            <a href="mailto:hello@gist.website.com">hello@gist.website.com</a>
+            <a href="mailto:hello@gist.website">hello@gist.website</a>
           </li>
           <li data-aos="fade-left">
             You may request Us in writing that We cease to use Your Personal
             Information by writing to Us at{" "}
-            <a href="mailto:hello@gist.website.com">hello@gist.website.com</a> .
-            In the event that you refuse to share any information, or withdraw
-            consent to process information that you have previously given to us,
-            we reserve the right to restrict or deny the provision of our
-            services for which we consider such information to be necessary.
+            <a href="mailto:hello@gist.website">hello@gist.website</a> . In the
+            event that you refuse to share any information, or withdraw consent
+            to process information that you have previously given to us, we
+            reserve the right to restrict or deny the provision of our services
+            for which we consider such information to be necessary.
           </li>
         </ol>
         <p data-aos="fade-left">
@@ -255,9 +255,8 @@ export default function PrivacyPolicy() {
             for the information and convenience of the public, and does not
             constitute endorsement, recommendation, or favoring by Gist. If you
             have questions or concerns, feel free to email Us or to correspond
-            at{" "}
-            <a href="mailto:hello@gist.website.com">hello@gist.website.com</a>{" "}
-            and We will attempt to address Your concerns.
+            at <a href="mailto:hello@gist.website">hello@gist.website</a> and We
+            will attempt to address Your concerns.
           </li>
         </ol>
         <p data-aos="fade-left">

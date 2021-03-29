@@ -453,7 +453,7 @@ export default function TermsAndCondition() {
           us. If you believe your account has been terminated in error, or you
           want to disable or permanently delete your account, contact us
           directly on
-          <a href="mailto:hello@gist.website.com">hello@gist.website.com</a>.
+          <a href="mailto:hello@gist.website">hello@gist.website</a>.
         </p>
         <p data-aos="fade-left">
           When you request to delete content or your account, the deletion
@@ -586,7 +586,7 @@ export default function TermsAndCondition() {
         <p data-aos="fade-left">
           <strong>CONTACT US:</strong> If you have any questions or suggestions
           about our Terms and Conditions, you can contact us at{" "}
-          <a href="mailto:hello@gist.website.com">hello@gist.website.com</a>.
+          <a href="mailto:hello@gist.website">hello@gist.website</a>.
         </p>
       </div>
 

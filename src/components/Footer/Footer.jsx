@@ -16,8 +16,8 @@ export default function Footer() {
         </div>
         <div className="contact-us">
           <div>Contact Us</div>
-          <a className="empty-url-style" href="mailto:hello@gist.website.com">
-            hello@gist.website.com
+          <a className="empty-url-style" href="mailto:hello@gist.website">
+            hello@gist.website
           </a>
         </div>
         <div>
