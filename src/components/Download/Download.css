@@ -10,6 +10,10 @@
     padding: 10px;
 }
 
+.download-container>div:first-child {
+    color: var(--title-text-color);
+}
+
 .download-container .download-links a>img {
     padding: 10px 0 0 0;
 }

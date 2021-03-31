@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <>
       <footer className="footer-container">
-        <div class="copyright ">
+        <div className="copyright ">
           <a
             className="empty-url-style no-link-style"
             href="https://brewhackers.com"

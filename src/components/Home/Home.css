@@ -19,6 +19,7 @@
     font-family: "Poppins";
     font-weight: bold;
     font-size: 20px;
+    color: var(--title-text-color);
 }
 
 .home-container .app-detail-container>div {

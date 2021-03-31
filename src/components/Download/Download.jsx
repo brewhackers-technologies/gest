@@ -5,7 +5,7 @@ import GooglePlayStore from "../../assets/images/googleplay.svg";
 
 export default function Download() {
   return (
-    <div className="download-container" data-aos="flip-down">
+    <div className="download-container">
       <div>DOWNLOAD AND GIVE US A TRY !!</div>
       <div className="download-links">
         <a

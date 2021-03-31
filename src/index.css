@@ -229,11 +229,13 @@ body {
 
 body {
     z-index: 0;
-    background-color: #ffffff;
+    background-color: #9cf6f6;
+    --footer-background-color: #56f0f0;
     --diagonal-x-scale: 16vh;
     --diagonal-y-scale: 10vh;
     --image-height: 70vh;
     --text-color: #454545;
+    --title-text-color: #0081a7;
     color: var(--text-color);
 }
 
@@ -280,6 +282,7 @@ body {
 li>b,
 .container ol li p {
     font-weight: bold;
+    color: var(--title-text-color);
 }
 
 .container p>i {

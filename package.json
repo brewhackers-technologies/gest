@@ -1,6 +1,6 @@
 {
     "homepage": "https://gist.website",
-    "name": "gest",
+    "name": "gist",
     "version": "0.1.0",
     "private": false,
     "dependencies": {

@@ -8,6 +8,7 @@
 }
 
 .feature-container .app-detail-container>div:first-child {
+    color: var(--title-text-color);
     font-family: "Poppins";
     font-weight: bold;
     font-size: 20px;
