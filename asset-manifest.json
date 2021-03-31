@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a401a75.chunk.css",
-    "main.js": "/static/js/main.93987798.chunk.js",
-    "main.js.map": "/static/js/main.93987798.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.20c84b35.js",
-    "runtime-main.js.map": "/static/js/runtime-main.20c84b35.js.map",
+    "main.css": "/static/css/main.8e6cfe01.chunk.css",
+    "main.js": "/static/js/main.56b15407.chunk.js",
+    "main.js.map": "/static/js/main.56b15407.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2ce732bd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2ce732bd.js.map",
     "static/css/2.ec02d681.chunk.css": "/static/css/2.ec02d681.chunk.css",
-    "static/js/2.dbebcee2.chunk.js": "/static/js/2.dbebcee2.chunk.js",
-    "static/js/2.dbebcee2.chunk.js.map": "/static/js/2.dbebcee2.chunk.js.map",
-    "static/js/3.d9366ee3.chunk.js": "/static/js/3.d9366ee3.chunk.js",
-    "static/js/3.d9366ee3.chunk.js.map": "/static/js/3.d9366ee3.chunk.js.map",
+    "static/js/2.2e327a6d.chunk.js": "/static/js/2.2e327a6d.chunk.js",
+    "static/js/2.2e327a6d.chunk.js.map": "/static/js/2.2e327a6d.chunk.js.map",
+    "static/js/3.8c3dd80e.chunk.js": "/static/js/3.8c3dd80e.chunk.js",
+    "static/js/3.8c3dd80e.chunk.js.map": "/static/js/3.8c3dd80e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.5a401a75.chunk.css.map": "/static/css/main.5a401a75.chunk.css.map",
-    "static/js/2.dbebcee2.chunk.js.LICENSE.txt": "/static/js/2.dbebcee2.chunk.js.LICENSE.txt",
+    "static/css/main.8e6cfe01.chunk.css.map": "/static/css/main.8e6cfe01.chunk.css.map",
+    "static/js/2.2e327a6d.chunk.js.LICENSE.txt": "/static/js/2.2e327a6d.chunk.js.LICENSE.txt",
     "static/media/appstore.7afcc86c.svg": "/static/media/appstore.7afcc86c.svg",
     "static/media/googleplay.b2c7c367.svg": "/static/media/googleplay.b2c7c367.svg",
     "static/media/home.881c4641.svg": "/static/media/home.881c4641.svg",
     "static/media/index.css": "/static/media/poppins-v15-latin-regular.c14093ce.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.20c84b35.js",
+    "static/js/runtime-main.2ce732bd.js",
     "static/css/2.ec02d681.chunk.css",
-    "static/js/2.dbebcee2.chunk.js",
-    "static/css/main.5a401a75.chunk.css",
-    "static/js/main.93987798.chunk.js"
+    "static/js/2.2e327a6d.chunk.js",
+    "static/css/main.8e6cfe01.chunk.css",
+    "static/js/main.56b15407.chunk.js"
   ]
 }
