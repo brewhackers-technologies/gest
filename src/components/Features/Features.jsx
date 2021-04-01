@@ -5,28 +5,26 @@ export default function Features() {
   return (
     <>
       <Feature
-        title={"Guilt Free Browsing !"}
+        title={"Curated from over 100 trustworthy sources"}
         content={
-          "Our team curates the best content online just to fuel your tech needs and keep you updated on the on-goings around the tech world"
+          "We do the hard work of curation so you don't have to. Our editorial team pick the most important and relevant updates from the best media sites out there. "
         }
         key={1}
         sequence={1}
       />
 
       <Feature
-        title={"Trending Topics !"}
+        title={"Summarized by domain experts"}
         content={
-          "Trending topics tailor made just for you to consume, you can share your opinions with us so we can customize the app for you !"
+          "Our domain experts summarize the news while retaining the essence, so you don't miss on anything important. It takes just 45 seconds to read an article."
         }
         key={2}
         sequence={2}
       />
 
       <Feature
-        title={"Top Sources"}
-        content={
-          "We pick up articles from top sources and shortify them into 80 word articles. Read full articles of whatever you are interested in"
-        }
+        title={"In an clutter-free and simple UX"}
+        content={"All the news are just a swipe away. Zero clutter."}
         key={3}
         sequence={3}
       />

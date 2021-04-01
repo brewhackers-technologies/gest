@@ -11,14 +11,12 @@ export default function Home() {
         <img className="app-image" src={AppPreview} alt="AppBox " />
       </div>
       <div className="app-detail-container" data-aos="fade-left">
-        <div>Tech News Simplified !</div>
+        <div>Technology news in under 100 words</div>
         <div>
-          We understand when it comes to tech news , there shouldn’t be any
-          clutter. So we made a tech only news platform under 10 lines just for
-          you !!
+          We understand you are busy, so we bring to you the best news of the
+          tech world curated from trustworthy sources, summarized in under 100
+          words. Stay informed in under 5 minutes.
         </div>
-        <div>Short news for smart people</div>
-        <div>Download and save time on reading !!</div>
         <div className="download-links" data-aos="flip-up">
           <a
             href="https://apps.apple.com/us/app/id1525140074"
