@@ -9,7 +9,7 @@ export default function Download() {
       <div>DOWNLOAD AND GIVE US A TRY</div>
       <div className="download-links">
         <a
-          href="https://apps.apple.com/us/app/id1525140074"
+          href="https://apps.apple.com/in/app/gist-tech-news-in-100-words/id1559849614"
           target="_blank"
           rel="noreferrer"
         >
@@ -17,7 +17,7 @@ export default function Download() {
         </a>
 
         <a
-          href="https://play.google.com/store/apps/details?id=com.brewhackers.android.pondr"
+          href="https://play.google.com/store/apps/details?id=com.brewhackers.instawire"
           target="_blank"
           rel="noreferrer"
         >

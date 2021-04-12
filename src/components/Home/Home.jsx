@@ -19,7 +19,7 @@ export default function Home() {
         </div>
         <div className="download-links" data-aos="flip-up">
           <a
-            href="https://apps.apple.com/us/app/id1525140074"
+            href="https://apps.apple.com/in/app/gist-tech-news-in-100-words/id1559849614"
             target="_blank"
             rel="noreferrer"
           >
@@ -27,7 +27,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://play.google.com/store/apps/details?id=com.brewhackers.android.pondr"
+            href="https://play.google.com/store/apps/details?id=com.brewhackers.instawire"
             target="_blank"
             rel="noreferrer"
           >
